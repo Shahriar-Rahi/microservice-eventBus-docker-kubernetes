@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: moderation
-          image: shahriar-rahi/moderation
+          image: shahriarrahi/moderation
 ---
 apiVersion: v1
 kind: Service
