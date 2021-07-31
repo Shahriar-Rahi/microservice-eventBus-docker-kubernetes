@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: event-bus
-          image: shahriar-rahi/event-bus
+          image: shahriarrahi/event-bus
 ---
 apiVersion: v1
 kind: Service
